@@ -12,7 +12,7 @@
 <br>
 
 ## Conecta conmigo ☕ :
-[![@rjmurillodev](https://img.icons8.com/fluency/48/000000/linkedin.png "@rjmurillodev")](https://www.linkedin.com/in/ronnymurillo/)
+[![@rjmurillodev](https://img.icons8.com/fluency/48/000000/linkedin.png "@rjmurillodev")](https://www.linkedin.com/in/rjmurillodev/)
 
 <br>
 
