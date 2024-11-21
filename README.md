@@ -10,16 +10,17 @@
 
 ## Sobre Mí :
 
-- 🏢 Actualmente soy **Senior Software Engineer** en IBM [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Raalizando un Upgrade de Carrera a  **Científico de Datos** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Estuios en Sistemas de Información at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Estudio para Científico de Datos en ESPOL at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
+- 🏢 Actualmente soy **Senior Software Engineer** en [IBM]
+- 🏢 Raalizando un Upgrade de Carrera a  **Científico de Datos** at [UMDEY] [PLATZI]  [ESPOL]
+- 🎓 Estuios en Sistemas de Información at [ESPOL](https://www.londonmet.ac.uk/)
+- 🎓 Estudio para Científico de Datos en [ESPOL] 
 - 🏡'Vivo en  **Ecuador**
 - ⚡ **Datos curiosos ** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
 ## Conecta conmigo ☕ :
+[![@rjmurillodev](https://img.icons8.com/fluency/48/000000/linkedin.png "@rjmurillodev")](https://www.linkedin.com/in/rjmurillodev/)
 
 <br>
 
