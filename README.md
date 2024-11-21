@@ -11,16 +11,15 @@
 ## Sobre Mí :
 
 - 🏢 Actualmente soy **Senior Software Engineer** en [IBM]
-- 🏢 Raalizando un Upgrade de Carrera a  **Científico de Datos** at [UMDEY] [PLATZI]  [ESPOL]
-- 🎓 Estuios en Sistemas de Información at [ESPOL](https://www.londonmet.ac.uk/)
-- 🎓 Estudio para Científico de Datos en [ESPOL] 
+- 🎓 Estuidios en Sistemas de Información at [ESPOL]
+- 🏢 Raalizando un Upgrade de Carrera a  **Científico de Datos** en [UMDEY] [PLATZI]  [ESPOL]
 - 🏡'Vivo en  **Ecuador**
 - ⚡ **Datos curiosos ** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
 
 ## Conecta conmigo ☕ :
-[![@rjmurillodev](https://img.icons8.com/fluency/48/000000/linkedin.png "@rjmurillodev")](https://www.linkedin.com/in/rjmurillodev/)
+[![@rjmurillodev](https://img.icons8.com/fluency/48/000000/linkedin.png "@rjmurillodev")](https://www.linkedin.com/in/ronnymurillo/)
 
 <br>
 
